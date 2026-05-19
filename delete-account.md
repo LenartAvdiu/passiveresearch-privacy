@@ -1,3 +1,7 @@
+---
+title: Delete Your Account
+---
+
 # Delete Your Account
 
 *Last updated: May 2026*
